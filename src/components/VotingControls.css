@@ -1,0 +1,17 @@
+/* VotingControls.css */
+.voting-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.voting-controls button {
+    padding: 10px 20px;
+}
+
+.voting-controls h3 {
+    font-size: 20px;
+    color: #34495e;
+    margin-right: 20px;
+}
